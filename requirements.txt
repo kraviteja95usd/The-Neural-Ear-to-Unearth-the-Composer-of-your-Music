@@ -1,0 +1,10 @@
+numpy
+pandas
+pretty-midi
+matplotlib
+seaborn
+music21
+tqdm
+scikit-learn
+tensorflow
+keras-tuner
